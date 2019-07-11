@@ -1,6 +1,6 @@
 # flaresanimation
 
-A new Flutter project.
+Simply implimenting flares in flutter with simple self made 2d animation .
 
 ## Getting Started
 
